@@ -1,10 +1,11 @@
 /*
- * Nithun Harikrishnan
- * CSC 402
- * HW 3
- * Tiny scrable game
- */ 
-
+ * Title: tinyScrGame.java
+ * Description: Tiny scrabble game  
+ * Author: Nithun Harikrishnan
+ * Version: 1.0
+ * Usage: >javac tinyScrGame.java >java tinyScrGame
+ */
+ 
 import java.io.*;
 import java.util.*;
 
